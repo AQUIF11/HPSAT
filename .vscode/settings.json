@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./ml_component",
+        "./rule_based_component"
+    ]
+}
