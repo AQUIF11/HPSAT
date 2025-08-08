@@ -14,7 +14,7 @@ gets the desired results.
   <img src="project_docs/images/model_structure.jpeg" alt="Model Structure" width="600">
 </p>
 
-To properly understand the inner workings of this tool, go through the project docs.
+To properly understand the inner workings of this tool, go through the [Project Documentation](https://github.com/AQUIF11/HPSAT/tree/main/project_docs/docs).
 
 ## Results
 
